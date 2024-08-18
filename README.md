@@ -1,6 +1,4 @@
-Here's a well-structured README file for your repository:
 
----
 
 # Animal Image Classifier using CNN
 
